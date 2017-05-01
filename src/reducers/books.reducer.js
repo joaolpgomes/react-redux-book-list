@@ -1,16 +1,16 @@
 export default function(){
 	return  [
 		{
-			title: 'JavaScript: The Good Parts'
+			title: 'JavaScript: The Good Parts', pages: 101
 		},
 		{
-			title: 'Harry Potter'
+			title: 'Harry Potter', pages: 39
 		},
 		{
-			title: 'The Dark Towe'
+			title: 'The Dark Towe', pages: 10
 		},
 		{
-			title: 'Angular Book'
+			title: 'Angular Book', pages: 1
 		}
 	];
 }
